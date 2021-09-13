@@ -4,19 +4,19 @@
     "url": "https://www.robertturner.org",
     "icon": "https://favicons.githubusercontent.com/www.robertturner.org",
     "slug": "robert-turner",
-    "status": "down",
-    "uptime": "10.55%",
-    "uptimeDay": "10.55%",
-    "uptimeWeek": "10.55%",
-    "uptimeMonth": "10.55%",
-    "uptimeYear": "10.55%",
-    "time": 226,
-    "timeDay": 226,
-    "timeWeek": 226,
-    "timeMonth": 226,
-    "timeYear": 226,
+    "status": "up",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
+    "time": 462,
+    "timeDay": 462,
+    "timeWeek": 462,
+    "timeMonth": 462,
+    "timeYear": 462,
     "dailyMinutesDown": {
-      "2021-09-13": 0
+      "2021-09-13": 769
     }
   },
   {
