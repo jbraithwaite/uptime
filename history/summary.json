@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/www.robertturner.org",
     "slug": "robert-turner",
     "status": "up",
-    "uptime": "95.47%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.47%",
-    "uptimeYear": "95.47%",
-    "time": 259,
-    "timeDay": 295,
-    "timeWeek": 277,
-    "timeMonth": 259,
-    "timeYear": 259,
-    "dailyMinutesDown": {
-      "2021-09-13": 769
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 263,
+    "timeDay": 320,
+    "timeWeek": 286,
+    "timeMonth": 263,
+    "timeYear": 263,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Blessed Footsteps",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 267,
-    "timeDay": 104,
-    "timeWeek": 270,
-    "timeMonth": 267,
-    "timeYear": 267,
+    "time": 263,
+    "timeDay": 207,
+    "timeWeek": 242,
+    "timeMonth": 263,
+    "timeYear": 263,
     "dailyMinutesDown": {}
   }
 ]
