@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 312,
-    "timeDay": 549,
-    "timeWeek": 356,
-    "timeMonth": 312,
-    "timeYear": 312,
+    "time": 310,
+    "timeDay": 403,
+    "timeWeek": 343,
+    "timeMonth": 310,
+    "timeYear": 310,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,28 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 249,
-    "timeDay": 190,
-    "timeWeek": 215,
+    "timeDay": 213,
+    "timeWeek": 217,
     "timeMonth": 249,
     "timeYear": 249,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "SF Bahá'í",
+    "url": "https://www.sfbahai.org",
+    "icon": "https://favicons.githubusercontent.com/www.sfbahai.org",
+    "slug": "sf-baha-i",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 261,
+    "timeDay": 261,
+    "timeWeek": 261,
+    "timeMonth": 261,
+    "timeYear": 261,
     "dailyMinutesDown": {}
   }
 ]
