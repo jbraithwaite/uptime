@@ -28,18 +28,19 @@
     "url": "https://www.blessedfootsteps.org",
     "icon": "https://favicons.githubusercontent.com/www.blessedfootsteps.org",
     "slug": "blessed-footsteps",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 241,
-    "timeDay": 194,
+    "timeDay": 207,
     "timeWeek": 215,
     "timeMonth": 219,
     "timeYear": 241,
     "dailyMinutesDown": {
+      "2022-06-21": 1,
       "2022-06-17": 19,
       "2022-01-07": 74
     }
@@ -49,9 +50,9 @@
     "url": "https://www.sfbahai.org",
     "icon": "https://favicons.githubusercontent.com/www.sfbahai.org",
     "slug": "sf-baha-i",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -61,6 +62,7 @@
     "timeMonth": 406,
     "timeYear": 477,
     "dailyMinutesDown": {
+      "2022-06-21": 0,
       "2022-06-17": 19
     }
   }
