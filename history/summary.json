@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 358,
-    "timeDay": 675,
-    "timeWeek": 402,
-    "timeMonth": 277,
+    "time": 357,
+    "timeDay": 200,
+    "timeWeek": 400,
+    "timeMonth": 269,
     "timeYear": 356,
     "dailyMinutesDown": {}
   },
@@ -24,18 +24,16 @@
     "slug": "blessed-footsteps",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 217,
-    "timeDay": 241,
-    "timeWeek": 245,
-    "timeMonth": 231,
-    "timeYear": 224,
-    "dailyMinutesDown": {
-      "2024-05-14": 7
-    }
+    "timeDay": 212,
+    "timeWeek": 241,
+    "timeMonth": 233,
+    "timeYear": 225,
+    "dailyMinutesDown": {}
   },
   {
     "name": "SF Bahá'í",
@@ -49,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 417,
-    "timeDay": 579,
-    "timeWeek": 437,
+    "timeDay": 250,
+    "timeWeek": 420,
     "timeMonth": 378,
     "timeYear": 381,
     "dailyMinutesDown": {}
