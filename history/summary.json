@@ -22,18 +22,20 @@
     "url": "https://www.blessedfootsteps.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.blessedfootsteps.org.ico",
     "slug": "blessed-footsteps",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 263,
-    "timeDay": 343,
-    "timeWeek": 402,
-    "timeMonth": 286,
+    "timeDay": 271,
+    "timeWeek": 376,
+    "timeMonth": 283,
     "timeYear": 267,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "SF Bahá'í",
