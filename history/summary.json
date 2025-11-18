@@ -4,37 +4,39 @@
     "url": "https://www.robertturner.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.robertturner.org.ico",
     "slug": "robert-turner",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 297,
-    "timeDay": 273,
-    "timeWeek": 308,
-    "timeMonth": 257,
+    "time": 296,
+    "timeDay": 241,
+    "timeWeek": 296,
+    "timeMonth": 255,
     "timeYear": 296,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "Blessed Footsteps",
     "url": "https://www.blessedfootsteps.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.blessedfootsteps.org.ico",
     "slug": "blessed-footsteps",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 263,
-    "timeDay": 206,
-    "timeWeek": 343,
-    "timeMonth": 277,
-    "timeYear": 267,
+    "timeDay": 203,
+    "timeWeek": 328,
+    "timeMonth": 275,
+    "timeYear": 266,
     "dailyMinutesDown": {
-      "2025-11-18": 8
+      "2025-11-18": 0
     }
   },
   {
@@ -42,17 +44,19 @@
     "url": "https://www.sfbahai.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.sfbahai.org.ico",
     "slug": "sf-baha-i",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 405,
-    "timeDay": 619,
-    "timeWeek": 464,
-    "timeMonth": 453,
-    "timeYear": 414,
-    "dailyMinutesDown": {}
+    "time": 404,
+    "timeDay": 338,
+    "timeWeek": 413,
+    "timeMonth": 441,
+    "timeYear": 413,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   }
 ]
