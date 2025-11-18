@@ -1,7 +1,7 @@
 url: https://www.robertturner.org
-status: up
-code: 200
-responseTime: 273
-lastUpdated: 2025-11-17T23:01:32.381Z
+status: down
+code: 500
+responseTime: 209
+lastUpdated: 2025-11-18T11:56:09.315Z
 startTime: 2021-09-13T05:26:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
