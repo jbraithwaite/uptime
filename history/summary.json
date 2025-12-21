@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 309,
-    "timeDay": 214,
-    "timeWeek": 998,
+    "time": 308,
+    "timeDay": 204,
+    "timeWeek": 987,
     "timeMonth": 501,
-    "timeYear": 316,
+    "timeYear": 315,
     "dailyMinutesDown": {
       "2025-11-18": 165
     }
@@ -26,17 +26,16 @@
     "slug": "blessed-footsteps",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 264,
-    "timeDay": 334,
-    "timeWeek": 310,
-    "timeMonth": 284,
+    "timeDay": 273,
+    "timeWeek": 298,
+    "timeMonth": 280,
     "timeYear": 268,
     "dailyMinutesDown": {
-      "2025-12-20": 6,
       "2025-11-18": 135
     }
   },
@@ -51,10 +50,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 409,
-    "timeDay": 644,
-    "timeWeek": 448,
-    "timeMonth": 478,
+    "time": 410,
+    "timeDay": 590,
+    "timeWeek": 470,
+    "timeMonth": 476,
     "timeYear": 422,
     "dailyMinutesDown": {
       "2025-11-18": 135
