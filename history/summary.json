@@ -4,19 +4,20 @@
     "url": "https://www.robertturner.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.robertturner.org.ico",
     "slug": "robert-turner",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 328,
-    "timeDay": 359,
-    "timeWeek": 363,
-    "timeMonth": 389,
-    "timeYear": 338,
+    "time": 327,
+    "timeDay": 290,
+    "timeWeek": 335,
+    "timeMonth": 379,
+    "timeYear": 337,
     "dailyMinutesDown": {
-      "2025-11-18": 165
+      "2025-11-18": 165,
+      "2026-10-22": 2
     }
   },
   {
@@ -47,9 +48,9 @@
     "slug": "sf-baha-i",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.95%",
     "time": 564,
     "timeDay": 3704,
@@ -61,7 +62,7 @@
       "2026-04-11": 36,
       "2026-04-23": 34,
       "2026-05-21": 58,
-      "2026-10-22": 2
+      "2026-10-22": 16
     }
   },
   {
@@ -70,18 +71,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/medlibes.com.ico",
     "slug": "medlibes",
     "status": "down",
-    "uptime": "98.94%",
-    "uptimeDay": "98.94%",
-    "uptimeWeek": "98.94%",
-    "uptimeMonth": "98.94%",
-    "uptimeYear": "98.94%",
+    "uptime": "89.04%",
+    "uptimeDay": "89.04%",
+    "uptimeWeek": "89.04%",
+    "uptimeMonth": "89.04%",
+    "uptimeYear": "89.04%",
     "time": 285,
     "timeDay": 285,
     "timeWeek": 285,
     "timeMonth": 285,
     "timeYear": 285,
     "dailyMinutesDown": {
-      "2026-10-22": 1
+      "2026-10-22": 16
     }
   },
   {
@@ -90,18 +91,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/medlibes.com.ico",
     "slug": "medlibes-database",
     "status": "down",
-    "uptime": "99.10%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.10%",
-    "uptimeMonth": "99.10%",
-    "uptimeYear": "99.10%",
+    "uptime": "89.20%",
+    "uptimeDay": "89.20%",
+    "uptimeWeek": "89.20%",
+    "uptimeMonth": "89.20%",
+    "uptimeYear": "89.20%",
     "time": 195,
     "timeDay": 195,
     "timeWeek": 195,
     "timeMonth": 195,
     "timeYear": 195,
     "dailyMinutesDown": {
-      "2026-10-22": 1
+      "2026-10-22": 16
     }
   },
   {
@@ -110,18 +111,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.projectnine.com.ico",
     "slug": "project-nine",
     "status": "down",
-    "uptime": "99.30%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.30%",
-    "uptimeMonth": "99.30%",
-    "uptimeYear": "99.30%",
+    "uptime": "89.36%",
+    "uptimeDay": "89.36%",
+    "uptimeWeek": "89.36%",
+    "uptimeMonth": "89.36%",
+    "uptimeYear": "89.36%",
     "time": 326,
     "timeDay": 326,
     "timeWeek": 326,
     "timeMonth": 326,
     "timeYear": 326,
     "dailyMinutesDown": {
-      "2026-10-22": 1
+      "2026-10-22": 15
     }
   },
   {
@@ -130,18 +131,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.projectnine.com.ico",
     "slug": "project-nine-blog",
     "status": "down",
-    "uptime": "99.46%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.46%",
-    "uptimeMonth": "99.46%",
-    "uptimeYear": "99.46%",
+    "uptime": "89.52%",
+    "uptimeDay": "89.52%",
+    "uptimeWeek": "89.52%",
+    "uptimeMonth": "89.52%",
+    "uptimeYear": "89.52%",
     "time": 347,
     "timeDay": 347,
     "timeWeek": 347,
     "timeMonth": 347,
     "timeYear": 347,
     "dailyMinutesDown": {
-      "2026-10-22": 1
+      "2026-10-22": 15
     }
   },
   {
@@ -150,18 +151,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/minna.projectnine.com.ico",
     "slug": "minna",
     "status": "down",
-    "uptime": "99.65%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.65%",
+    "uptime": "89.68%",
+    "uptimeDay": "89.68%",
+    "uptimeWeek": "89.68%",
+    "uptimeMonth": "89.68%",
+    "uptimeYear": "89.68%",
     "time": 340,
     "timeDay": 340,
     "timeWeek": 340,
     "timeMonth": 340,
     "timeYear": 340,
     "dailyMinutesDown": {
-      "2026-10-22": 0
+      "2026-10-22": 15
     }
   },
   {
@@ -170,18 +171,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdn.projectnine.com.ico",
     "slug": "project-nine-cdn",
     "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
+    "uptime": "89.84%",
+    "uptimeDay": "89.84%",
+    "uptimeWeek": "89.84%",
+    "uptimeMonth": "89.84%",
+    "uptimeYear": "89.84%",
     "time": 282,
     "timeDay": 282,
     "timeWeek": 282,
     "timeMonth": 282,
     "timeYear": 282,
     "dailyMinutesDown": {
-      "2026-10-22": 0
+      "2026-10-22": 15
     }
   }
 ]
