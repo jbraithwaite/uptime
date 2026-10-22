@@ -9,6 +9,18 @@ sites:
     url: https://www.blessedfootsteps.org
   - name: "SF Bahá'í"
     url: https://www.sfbahai.org
+  - name: Medlibes
+    url: https://medlibes.com
+  - name: Medlibes (database)
+    url: https://medlibes.com/letter/a
+  - name: Project Nine
+    url: https://www.projectnine.com
+  - name: Project Nine Blog
+    url: https://blog.projectnine.com
+  - name: Minna
+    url: https://minna.projectnine.com
+  - name: Project Nine CDN
+    url: https://cdn.projectnine.com
 
 
 status-website:
