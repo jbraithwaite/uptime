@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "100.00%",
     "time": 332,
-    "timeDay": 112,
-    "timeWeek": 664,
-    "timeMonth": 361,
-    "timeYear": 344,
+    "timeDay": 125,
+    "timeWeek": 552,
+    "timeMonth": 342,
+    "timeYear": 343,
     "dailyMinutesDown": {}
   },
   {
@@ -27,12 +27,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "100.00%",
     "time": 303,
-    "timeDay": 189,
-    "timeWeek": 247,
-    "timeMonth": 261,
-    "timeYear": 307,
+    "timeDay": 338,
+    "timeWeek": 270,
+    "timeMonth": 260,
+    "timeYear": 310,
     "dailyMinutesDown": {
       "2026-04-10": 23
     }
@@ -47,12 +47,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 562,
-    "timeDay": 389,
-    "timeWeek": 401,
-    "timeMonth": 906,
-    "timeYear": 602,
+    "uptimeYear": "99.97%",
+    "time": 561,
+    "timeDay": 318,
+    "timeWeek": 381,
+    "timeMonth": 899,
+    "timeYear": 605,
     "dailyMinutesDown": {
       "2026-04-11": 36,
       "2026-04-23": 34,
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 264,
-    "timeDay": 313,
-    "timeWeek": 353,
-    "timeMonth": 264,
-    "timeYear": 264,
+    "time": 263,
+    "timeDay": 219,
+    "timeWeek": 348,
+    "timeMonth": 263,
+    "timeYear": 263,
     "dailyMinutesDown": {
       "2026-10-22": 27
     }
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 184,
-    "timeDay": 149,
-    "timeWeek": 259,
-    "timeMonth": 184,
-    "timeYear": 184,
+    "time": 183,
+    "timeDay": 138,
+    "timeWeek": 256,
+    "timeMonth": 183,
+    "timeYear": 183,
     "dailyMinutesDown": {
       "2026-10-22": 27
     }
@@ -111,11 +111,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 293,
-    "timeDay": 308,
-    "timeWeek": 364,
-    "timeMonth": 293,
-    "timeYear": 293,
+    "time": 291,
+    "timeDay": 241,
+    "timeWeek": 359,
+    "timeMonth": 291,
+    "timeYear": 291,
     "dailyMinutesDown": {
       "2026-10-22": 27
     }
@@ -131,11 +131,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 276,
-    "timeDay": 232,
-    "timeWeek": 275,
-    "timeMonth": 276,
-    "timeYear": 276,
+    "time": 275,
+    "timeDay": 243,
+    "timeWeek": 265,
+    "timeMonth": 275,
+    "timeYear": 275,
     "dailyMinutesDown": {
       "2026-10-22": 27
     }
@@ -151,11 +151,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 287,
-    "timeDay": 452,
-    "timeWeek": 362,
-    "timeMonth": 287,
-    "timeYear": 287,
+    "time": 284,
+    "timeDay": 216,
+    "timeWeek": 355,
+    "timeMonth": 284,
+    "timeYear": 284,
     "dailyMinutesDown": {
       "2026-10-22": 26
     }
@@ -166,16 +166,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdn.projectnine.com.ico",
     "slug": "project-nine-cdn",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 264,
-    "timeDay": 272,
-    "timeWeek": 356,
-    "timeMonth": 264,
-    "timeYear": 264,
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 267,
+    "timeDay": 352,
+    "timeWeek": 368,
+    "timeMonth": 267,
+    "timeYear": 267,
     "dailyMinutesDown": {
       "2026-10-22": 26
     }
